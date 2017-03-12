@@ -1,2 +1,2 @@
 # prime-numbers-position
-Calculates a prime number based on its position.
+A simple Android app that calculates a prime number based on its position.
